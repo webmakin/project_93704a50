@@ -1,0 +1,8 @@
+{
+  "task_id": "cli_task_09c99549",
+  "task_type": "cli",
+  "chunks": [
+    "create a simple hello world page"
+  ],
+  "instructions": "Process the following sub-tasks for the main task: create a simple hello world page..."
+}
